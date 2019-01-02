@@ -1,0 +1,3 @@
+ofxExportImageSequence
+ofxGui
+ofxTrueTypeFontUC
